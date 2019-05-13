@@ -21,7 +21,7 @@ Kim Dong-gi
 
 
 **Sample Img**  
-![Detection Example](https://ibb.co/3S1BMLP.png)
+![Detection Example](https://i.postimg.cc/ZKDNL6F4/hor.png)
 
 
 ## Copyright
