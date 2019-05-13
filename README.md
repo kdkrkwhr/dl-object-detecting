@@ -21,7 +21,7 @@ Kim Dong-gi
 
 
 **Sample Img**  
-![Detection Example](https://ifh.cc/g/Ibrou.jpg)
+![Detection Example](https://ibb.co/3S1BMLP.png)
 
 
 ## Copyright
